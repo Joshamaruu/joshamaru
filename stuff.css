@@ -1,0 +1,18 @@
+.k:hover {
+  opacity:0.5;
+  border:2px;border-style:ridge;border-color:lime;
+  border-radius:150px;
+  background-color:lime;
+  transition:2s;
+}
+
+
+.btncloak {
+  background-color:lime;
+  border-color:black;
+}
+
+.btncloak:hover {
+  border-radius:150px;
+  transition: 2s;
+}
